@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: dev
+    active: prod
 --- #800定义为prod 8005定义为dev
 server:
   port: 8000
